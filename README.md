@@ -1,1 +1,1 @@
-http//blogs.zezeping.com
+[blog](http://blogs.zezeping.com)
