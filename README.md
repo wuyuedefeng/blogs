@@ -1,4 +1,5 @@
 <a href="http://blogs.zezeping.com" target="_blank">http://blogs.zezeping.com</a>
+<a href="https://wuyuedefeng.github.io" target="_blank">https://wuyuedefeng.github.io</a>
 
 > Github地址： https://github.com/wuyuedefeng/blogs
 
